@@ -46,3 +46,8 @@ Snapshots/en-US
 *.ipa
 *.zip
 *.dSYM
+*.xcarchive
+
+# xcodebuild
+
+exportOptions.plist
