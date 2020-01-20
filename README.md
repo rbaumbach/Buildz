@@ -104,3 +104,4 @@ These commands can all currently be used using the "Simple" Xcode project.
 
 * [Basic xcodebuild usage](https://medium.com/xcblog/xcodebuild-deploy-ios-app-from-command-line-c6defff0d8b8)
 * [xcodebuild destination options](https://www.mokacoding.com/blog/xcodebuild-destination-options/)
+* [simctl](https://nshipster.com/simctl/)
