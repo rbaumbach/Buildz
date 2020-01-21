@@ -88,6 +88,8 @@ Testing without building:
 
 `xcodebuild -scheme "Simple" -project "Simple.xcodeproj" -destination "name=iPhone 11 Pro" test-without-building`
 
+### Dynamic Framework
+
 ### Additional commands
 
 List simulators
